@@ -51,7 +51,7 @@
 
 - |||
   | :----- | :----- |
-  | Solution URL: | [To be posted :hourglass_flowing_sand:](#links) |
+  | Solution URL: | [PROJECT TRACKER INTRO COMP 🎯 [ ACCESSIBLE - ES6 - BEM - VANILLA CSS ]](https://www.frontendmentor.io/solutions/project-tracker-intro-comp-accessible-es6-bem-vanilla-css-Uswbvja_fd) |
   | Live Site URL: | [https://0xabdulkhalid.github.io/project-tracking-intro-component/](https://0xabdulkhalid.github.io/project-tracking-intro-component/) |
   |||
 
